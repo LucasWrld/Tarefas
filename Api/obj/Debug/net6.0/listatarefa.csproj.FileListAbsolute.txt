@@ -1,0 +1,7 @@
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.csproj.AssemblyReference.cache
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.AssemblyInfoInputs.cache
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.AssemblyInfo.cs
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.csproj.CoreCompileInputs.cache
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Compaq\OneDrive\Área de Trabalho\listatarefa\obj\Debug\net6.0\listatarefa.MvcApplicationPartsAssemblyInfo.cache
